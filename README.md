@@ -1,5 +1,8 @@
-> [!IMPORTANT]
-> Work in progress. This is an unofficial port.
+> [!NOTE]
+> This branch preserves the historical manually maintained Minecraft 1.21.1
+> port. The generated default branch is
+> [`1.21.1`](https://github.com/crabsatellite/sakura-modporter-port/tree/1.21.1),
+> produced with [ModPorter](https://github.com/CrabMods/modporter).
 
 <p align="center">
 <a href="https://www.curseforge.com/minecraft/mc-mods/sakura"><img src="https://i.imgur.com/o4yFXsE.png" alt="CurseForge Project"/></a>
